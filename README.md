@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Medhansh-shah
 - 👀 I’m interested in Science, Maths and Programming.
-- 🌱 I’m currently in IIT Bombay as an Electrical Engineeing student.
+- 🌱 I’m currently in IIT Bombay as a Undergraduate student in Electrical Engineering.
 - 💞️ I’m looking to learn competitive programming.
 - 📫 How to reach me: Mail: mas1308educode@outlook.com
 
